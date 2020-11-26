@@ -13,6 +13,9 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+h1,p {
+    text-shadow:1px 1px 0 #fff, 2px 2px 0 #000;
+}
 
 button {
     padding: 5px 20px;
