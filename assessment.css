@@ -7,7 +7,7 @@ body {
     background: -webkit-linear-gradient(top, #a8edea, #fed6e3);
     background: linear-gradient(to bottom, #a8edea, #fed6e3); 
     height: 100%;
-    margin: 0;
+    margin: auto;
     color: #fdffff;
     width: 500px;
     margin-right: auto;
